@@ -1,0 +1,35 @@
+[
+    {
+      "id": "1",
+      "type": "Chair",
+      "name": "Modern Office Chair",
+      "rating": 4.5,
+      "price": 120.99,
+      "imageUrl": "https://example.com/images/modern-office-chair.jpg"
+    },
+    {
+      "id": "2",
+      "type": "Table",
+      "name": "Wooden Dining Table",
+      "rating": 4.8,
+      "price": 299.99,
+      "imageUrl": "https://example.com/images/wooden-dining-table.jpg"
+    },
+    {
+      "id": "3",
+      "type": "Sofa",
+      "name": "Leather Sofa",
+      "rating": 4.2,
+      "price": 550.00,
+      "imageUrl": "https://example.com/images/leather-sofa.jpg"
+    },
+    {
+      "id": "4",
+      "type": "Bed",
+      "name": "King Size Bed",
+      "rating": 4.9,
+      "price": 899.00,
+      "imageUrl": "https://example.com/images/king-size-bed.jpg"
+    }
+]
+  

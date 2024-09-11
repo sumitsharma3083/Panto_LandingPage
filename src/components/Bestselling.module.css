@@ -1,0 +1,13 @@
+.wrapper{
+    width: 100%;
+    padding: 20px 0;
+    background-color: #f7f7f7;
+}
+.productWrapper{
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+    padding: 20px;
+}

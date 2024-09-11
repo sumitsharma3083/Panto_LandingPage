@@ -1,0 +1,21 @@
+.navigation{
+    width: 100%;
+    color: #fff;
+    display: flex;
+    padding: 20px 0;
+}
+.navList{
+    display: inline-block;
+}
+.navList li {
+    display: inline;
+}
+.linkitem{
+margin-right: 30px;
+}
+.link{
+   text-transform: capitalize;
+   text-decoration: none;
+   color: #fff;
+   font-weight: bold;
+}
