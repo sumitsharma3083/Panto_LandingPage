@@ -4,6 +4,9 @@ import './App.css'
 import HeroSection from './components/HeroSection'
 import ChooseUs from './components/ChooseUs'
 import Bestselling from './components/Bestselling'
+import BestExperience from './components/BestExperience'
+import BestMaterial from './components/BestMaterial'
+import ClientReview from './components/ClientReview'
 
 
 function App() {
@@ -12,6 +15,9 @@ function App() {
      <HeroSection/>
      <ChooseUs/>
      <Bestselling/>
+     <BestExperience/>
+     <BestMaterial/>
+     <ClientReview/>
     </>
   )
 }

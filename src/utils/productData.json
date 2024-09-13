@@ -5,7 +5,7 @@
       "name": "Modern Office Chair",
       "rating": 4.5,
       "price": 120.99,
-      "imageUrl": "https://example.com/images/modern-office-chair.jpg"
+      "imageUrl": "https://images.pexels.com/photos/2762247/pexels-photo-2762247.jpeg"
     },
     {
       "id": "2",
@@ -13,7 +13,7 @@
       "name": "Wooden Dining Table",
       "rating": 4.8,
       "price": 299.99,
-      "imageUrl": "https://example.com/images/wooden-dining-table.jpg"
+      "imageUrl": "https://images.pexels.com/photos/2258083/pexels-photo-2258083.jpeg"
     },
     {
       "id": "3",
@@ -21,7 +21,7 @@
       "name": "Leather Sofa",
       "rating": 4.2,
       "price": 550.00,
-      "imageUrl": "https://example.com/images/leather-sofa.jpg"
+      "imageUrl": "https://images.pexels.com/photos/923192/pexels-photo-923192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
       "id": "4",
@@ -29,7 +29,7 @@
       "name": "King Size Bed",
       "rating": 4.9,
       "price": 899.00,
-      "imageUrl": "https://example.com/images/king-size-bed.jpg"
+      "imageUrl": "https://images.pexels.com/photos/8465078/pexels-photo-8465078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     }
 ]
   
