@@ -14,7 +14,7 @@ const ImageContentGrid = () => {
                     </div>
 
                     <div className={styles.imageWrapper}>
-                      <img src="https://via.placeholder.com/150" alt="Image" className={styles.image} />
+                      <img src="https://images.pexels.com/photos/609768/pexels-photo-609768.jpeg" alt="Image" className={styles.image} />
                     </div>
                 </div>
         </div>

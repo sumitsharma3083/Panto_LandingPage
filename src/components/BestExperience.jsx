@@ -8,7 +8,7 @@ const ImageContentGrid = () => {
         <div className={styles.wrapper}>
                <div className={styles.gridContainer}>
                     <div className={styles.imageWrapper}>
-                    <img src="https://via.placeholder.com/150" alt="Image" className={styles.image} />
+                    <img src="https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg" alt="Image" className={styles.image} />
                     </div>
                     <div className={styles.contentWrapper}>
                     <p className={styles.tag}>EXPERIENCES</p>

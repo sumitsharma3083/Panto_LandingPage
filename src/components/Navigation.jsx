@@ -8,7 +8,7 @@ const Navigation = () => {
     <div className={Classes.navigation}>
           
             <h1 style={{fontSize:"24px", display:"inline-block", paddingLeft:"20px"}}>Panto</h1>
-              <div style={{textAlign:"center", textAlign:"center", width:"100%"}}>
+              <div style={{textAlign:"center", width:"100%"}}>
               <ul className={Classes.navList}>
                 <li className={Classes.linkitem}>
                   <a href="#" className={Classes.link}>

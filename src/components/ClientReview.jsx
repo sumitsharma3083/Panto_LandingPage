@@ -1,5 +1,8 @@
 import React from 'react'
 import styles from './ClientReview.module.css'
+import ClientReviewCard from './ClientReviewCard'
+import ClientData from '../utils/ClientData.json'
+
 
 const ClientReview = () => {
   return (
@@ -7,15 +10,11 @@ const ClientReview = () => {
             <h1 className={styles.tag}>Testimonials</h1>
             <h1 className={styles.heading}>our client reviews</h1>
             <div className={styles.gridContainer}>
-                    <div>
-                        Review1
-                    </div>
-                    <div>
-                        Review2
-                    </div>
-                    <div>
-                        Review3
-                    </div>
+              {ClientData.map(data=>{
+                return  <ClientReviewCard key={data.id} bgImage={data.bgImage} clientImg={data.clientImg} review={data.review} name={data.clientName}/>
+              })}
+                     
+                       
             </div>
      </div>
   )

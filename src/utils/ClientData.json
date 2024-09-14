@@ -1,0 +1,31 @@
+[
+    {
+      "id": "1",
+      "bgImage" : "https://images.pexels.com/photos/1907784/pexels-photo-1907784.jpeg",
+      "clientName" : "Sumit Sharma",
+      "clientImg" : "https://images.pexels.com/photos/388514/pexels-photo-388514.jpeg",
+      "review" :"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "rating" : "5"
+      
+    },
+    {
+        "id": "2",
+        "bgImage" : "https://images.pexels.com/photos/2177482/pexels-photo-2177482.jpeg",
+        "clientName" : "John Doe",
+        "clientImg" : "https://images.pexels.com/photos/388514/pexels-photo-388514.jpeg",
+        "review" :"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "rating" : "5"
+     
+    },
+    {
+        "id": "3",
+        "bgImage" : "https://images.pexels.com/photos/2898170/pexels-photo-2898170.jpeg",
+        "clientName" : "Jane Doe",
+        "clientImg" : "https://images.pexels.com/photos/388514/pexels-photo-388514.jpeg",
+        "review" :"Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+        "rating" : "5"
+   
+    }
+]
+  
+ 
