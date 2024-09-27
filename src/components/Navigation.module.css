@@ -19,3 +19,14 @@ margin-right: 30px;
    color: #fff;
    font-weight: bold;
 }
+
+
+@media screen and (max-width : 600px) {
+    .link{
+       font-size: 12px;
+       font-weight: 400;
+     }
+     .linkitem{
+        margin-right: 15px;
+        }
+}

@@ -3,3 +3,11 @@
     background-size: cover;
     min-height: 100vh;
 }
+
+@media screen and (max-width : 600px) {
+    .heroContainer{
+        min-height: auto;
+        margin-bottom: 20px;
+    }
+    
+}

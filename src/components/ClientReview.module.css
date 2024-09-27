@@ -22,3 +22,30 @@
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
 }
+
+
+@media screen and (max-width : 600px){
+  .wrapper{
+   display: block;
+   margin-top: 30px;
+  }
+  .tag{
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: orange;
+   }
+   .heading{
+    text-align: center;
+    font-size: 1.3rem;
+    text-transform: capitalize;
+    color: #000;
+}
+.gridContainer{
+  width: 90%;
+  margin: auto;
+  padding: 20px;
+  display: block;
+  }
+
+}

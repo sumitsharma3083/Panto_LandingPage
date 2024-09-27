@@ -1,0 +1,11 @@
+@media screen and (max-width : 600px) {
+    .masterHeading{
+        width: 90% !important;
+        font-size: 35px !important;
+        margin-top: 20px !important;
+    }
+    .masterDescription{
+        width: 90% !important;
+        color: #fff !important;
+    }
+}
