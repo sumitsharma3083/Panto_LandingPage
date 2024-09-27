@@ -12,9 +12,7 @@ const ClientReview = () => {
             <div className={styles.gridContainer}>
               {ClientData.map(data=>{
                 return  <ClientReviewCard key={data.id} bgImage={data.bgImage} clientImg={data.clientImg} review={data.review} name={data.clientName}/>
-              })}
-                     
-                       
+              })}                       
             </div>
      </div>
   )
