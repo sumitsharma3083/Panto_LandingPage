@@ -1,9 +1,10 @@
 import React from 'react'
+import Classes from './Productcard.module.css'
 
 const ProductCard = ({...rest}) => {
       const {id,price,name,imageUrl,rating, type} = rest
   return (
-    <div style={{backgroundColor:"#fff", borderRadius:"20px"}}>
+    <div className={Classes.productCard} style={{backgroundColor:"#fff", borderRadius:"20px"}}>
                <img src={imageUrl} alt="Myimg" style={{width:"100%", height:"200px", borderTopLeftRadius:"20px", borderTopRightRadius:"20px"}} />
                <div style={{padding:"10px"}} >
                   <span style={{color: "#aaa", fontWeight:"400"}}>{type}</span>

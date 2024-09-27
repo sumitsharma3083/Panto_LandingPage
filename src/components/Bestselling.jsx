@@ -18,7 +18,7 @@ const Bestselling = () => {
 
   return (
     <div className={Classes.wrapper}>
-        <h1 style={{textAlign:"center", textTransform:"capitalize", fontSize:"25px"}}>Best selling product</h1>
+        <h1 className={Classes.mainHeading} style={{textAlign:"center", textTransform:"capitalize", fontSize:"25px"}}>Best selling product</h1>
           <div style={{textAlign:"center"}}>
             <div style={{display:"inline-block", background:"#eee", borderRadius:"30px", padding:"5px"}}>
               
